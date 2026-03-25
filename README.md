@@ -1,2 +1,0 @@
-# pikach-sprites-webm
-webm
